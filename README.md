@@ -31,72 +31,36 @@ React front end, a Python ML service and a Helm chart. I like the layer where th
 
 ---
 
-## Game Forge
-
-**A sentence in. A game out.** My graduation project at Cairo University. Describe a game in plain
-English, refine it in a short chat, and about four minutes later you are playing it in your
-browser — with the whole Godot 4 project yours to download.
-
-<a href="https://github.com/game-forge-studio/game-forge"><img src="https://raw.githubusercontent.com/game-forge-studio/game-forge/main/docs/media/screenshots/browser-gameplay-platformer.png" width="100%" alt="A generated 2D platformer running in the browser — art, terrain, enemies, HUD, music and a procedurally generated level, all from a single sentence" /></a>
-
-<p align="center"><em>Art, terrain, enemies, HUD, music and the level itself — all generated from one sentence.</em></p>
-
-Nine services in one distributed pipeline. A **planner** classifies the prompt into a strict,
-validated game plan; an **asset** service drives Stability AI through MCP tools to generate every
-sprite, background and music track; a **code** service assembles a complete Godot 4 project from an
-engine-verified GDScript library with a procedurally generated level; and a **builder** runs the
-Godot CLI headless to export an HTML5 / WebAssembly bundle. A stateless orchestrator coordinates
-all of it behind a REST API and a React front end.
-
-No service ever streams a file to another — they share only MongoDB for state and MinIO for
-objects, so every service builds, tests and restarts in complete isolation. Generation is
-constrained to three engine-verified archetypes — platformer, top-down and endless-runner —
-trading unlimited freedom for a game that compiles and runs on every request.
-
-<div align="center">
-
-<a href="https://github.com/game-forge-studio/game-forge"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></a>
-<a href="https://github.com/game-forge-studio/game-forge"><img src="https://img.shields.io/badge/Godot%204-478CBF?style=flat-square&logo=godotengine&logoColor=white" alt="Godot 4" /></a>
-<a href="https://github.com/game-forge-studio/game-forge"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" /></a>
-<a href="https://github.com/game-forge-studio/game-forge"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
-<a href="https://github.com/game-forge-studio/game-forge"><img src="https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white" alt="MinIO" /></a>
-<a href="https://github.com/game-forge-studio/game-forge"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /></a>
-
-**[Read the full architecture →](https://github.com/game-forge-studio/game-forge)**
-
-</div>
-
----
-
-### Other work
+### Projects
 
 <table>
   <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/game-forge-studio/game-forge">Game Forge</a></h4>
+      <p><a href="https://github.com/game-forge-studio/game-forge"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></a> <a href="https://github.com/game-forge-studio/game-forge"><img src="https://img.shields.io/badge/Godot%204-478CBF?style=flat-square&logo=godotengine&logoColor=white" alt="Godot 4" /></a></p>
+      <p>A sentence in, a playable browser game out. A distributed pipeline plans the game,
+      generates its art and music, assembles a Godot 4 project and exports it to HTML5. My
+      graduation project.</p>
+    </td>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/AHmEeD-SaBER/DigitalDewey">Digital Dewey</a></h4>
       <p><a href="https://github.com/AHmEeD-SaBER/DigitalDewey"><img src="https://img.shields.io/badge/Django%205-092E20?style=flat-square&logo=django&logoColor=white" alt="Django 5" /></a></p>
       <p>A library management system on Django 5 — catalogue, cover uploads and authentication
       across three apps, server-rendered. I am the top contributor.</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/AmrMsCLL/Machine-Language-Simulator">Machine Language Simulator</a></h4>
       <p><a href="https://github.com/AmrMsCLL/Machine-Language-Simulator"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" /></a></p>
       <p>The Vole machine emulated from the metal up — 256 bytes of memory, 16 registers and a
       program counter as separate classes, behind a menu-driven debugger.</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/AmrMsCLL/Data-Compression">Data Compression</a></h4>
       <p><a href="https://github.com/AmrMsCLL/Data-Compression"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></a></p>
       <p>Five codecs written from scratch, no libraries: Huffman, Arithmetic, LZW, LZ77, and
       Vector Quantization with LBG codebook training for images.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/AmrMsCLL/OOP-Gaming-Assignment">OOP Board Games</a></h4>
-      <p><a href="https://github.com/AmrMsCLL/OOP-Gaming-Assignment"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" /></a></p>
-      <p>Three games behind one abstract <code>Board</code> interface. Mine was Four in a Row,
-      including its seven-ply minimax AI with alpha-beta pruning.</p>
     </td>
   </tr>
 </table>
