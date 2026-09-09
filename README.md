@@ -6,7 +6,9 @@
 
 <br/>
 
-<a href="https://github.com/AmrMsCLL?tab=followers"><img src="https://img.shields.io/github/followers/AmrMsCLL?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a&color=0ea5e9" alt="Followers" /></a>
+<a href="mailto:amrsherieycll@gmail.com"><img src="https://img.shields.io/badge/amrsherieycll%40gmail.com-0ea5e9?style=flat-square&logo=gmail&logoColor=white" alt="Email amrsherieycll@gmail.com" /></a>
+<a href="https://www.linkedin.com/in/amrsherieycll"><img src="https://img.shields.io/badge/amrsherieycll-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn: amrsherieycll" /></a>
+<a href="https://github.com/AmrMsCLL?tab=followers"><img src="https://img.shields.io/github/followers/AmrMsCLL?style=flat-square&logo=github&logoColor=white&labelColor=0f172a&color=0ea5e9" alt="Followers" /></a>
 
 </div>
 
@@ -46,7 +48,7 @@ React front end, a Python ML service and a Helm chart. I like the layer where th
       <h4><a href="https://github.com/AHmEeD-SaBER/DigitalDewey">Digital Dewey</a></h4>
       <p><a href="https://github.com/AHmEeD-SaBER/DigitalDewey"><img src="https://img.shields.io/badge/Django%205-092E20?style=flat-square&logo=django&logoColor=white" alt="Django 5" /></a></p>
       <p>A library management system on Django 5 — catalogue, cover uploads and authentication
-      across three apps, server-rendered. I am the top contributor.</p>
+      across three apps, server-rendered.</p>
     </td>
   </tr>
   <tr>
@@ -77,16 +79,5 @@ React front end, a Python ML service and a Helm chart. I like the layer where th
 <a href="https://github.com/AmrMsCLL?tab=repositories"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmrMsCLL&theme=github_dark" width="98%" alt="Contribution summary" /></a>
 
 <a href="https://github.com/AmrMsCLL?tab=repositories"><img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmrMsCLL&theme=github_dark" alt="Most-committed languages" /></a>
-
-</div>
-
----
-
-### Reach me
-
-<div align="center">
-
-<a href="mailto:amrsherieycll@gmail.com"><img src="https://img.shields.io/badge/Email-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/amrsherieycll"><img src="https://img.shields.io/badge/LinkedIn-0ea5e9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a" alt="LinkedIn" /></a>
 
 </div>
