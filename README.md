@@ -6,13 +6,10 @@
 
 <br/><br/>
 
-<a href="mailto:amrsherieycll@gmail.com"><img width="291" src="https://img.shields.io/badge/amrsherieycll%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email amrsherieycll@gmail.com" /></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/amrsherieycll"><img width="141" src="https://img.shields.io/badge/amrsherieycll-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn amrsherieycll" /></a>
-&nbsp;
-<a href="https://discord.com/users/412317378337046529"><img width="117" src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
-&nbsp;
-<a href="https://github.com/AmrMsCLL?tab=followers"><img width="168" src="https://img.shields.io/github/followers/AmrMsCLL?style=flat-square&logo=github&logoColor=white&labelColor=0f172a&color=0ea5e9" alt="GitHub followers" /></a>
+<a href="mailto:amrsherieycll@gmail.com"><img src="https://img.shields.io/badge/Gmail-amrsherieycll%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email amrsherieycll@gmail.com" /></a>
+<a href="https://www.linkedin.com/in/amrsherieycll"><img src="https://img.shields.io/badge/LinkedIn-amrsherieycll-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn amrsherieycll" /></a>
+<a href="https://discord.com/users/412317378337046529"><img src="https://img.shields.io/badge/Discord-cllixiv-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord cllixiv" /></a>
+<a href="https://github.com/AmrMsCLL?tab=followers"><img src="https://img.shields.io/github/followers/AmrMsCLL?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=0f172a&color=0ea5e9" alt="GitHub followers" /></a>
 
 </div>
 
