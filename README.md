@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/amrsherieycll"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=190&section=header&text=Amr%20El-Sheraey&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Engineer%20·%20Cairo,%20Egypt&descAlignY=57&descSize=16&animation=fadeIn" width="100%" alt="Amr El-Sheraey, Full-Stack Engineer, Cairo, Egypt" /></a>
 
-<a href="https://github.com/AmrMsCLL?tab=repositories"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=620&lines=I+build+things+that+read+documents;and+things+that+generate+games;and+the+infrastructure+under+both" alt="I build things that read documents, things that generate games, and the infrastructure under both" /></a>
+<a href="https://github.com/AmrMsCLL?tab=repositories"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3200&pause=900&color=0EA5E9&center=true&vCenter=true&width=460&lines=I+like+the+layer+where+things+meet;Learning+the+parts+I+am+worst+at;Trying+to+do+better" alt="I like the layer where things meet. Learning the parts I am worst at. Trying to do better." /></a>
 
 <br/><br/>
 
@@ -16,11 +16,13 @@
 
 ### About
 
-Computer Science & AI graduate from **FCAI, Cairo University**, based in Cairo. I build
-document-intelligence software at **Syntheia**.
+Full-stack engineer based in Cairo, and a Computer Science & AI graduate of
+**FCAI, Cairo University**.
 
-I work across the whole stack, which in practice means a normal week touches a TypeScript API, a
-React front end, a Python ML service and a Helm chart. I like the layer where those meet.
+A normal week touches a TypeScript API, a React front end, a Python ML service and a Helm chart.
+I am most useful where those meet, and most interested in whichever part I have not done before.
+
+Currently building document-intelligence software at **Syntheia**.
 
 ### Tech stack
 
