@@ -9,7 +9,6 @@
 <a href="mailto:amrsherieycll@gmail.com"><img src="https://img.shields.io/badge/Gmail-amrsherieycll%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email amrsherieycll@gmail.com" /></a>
 <a href="https://www.linkedin.com/in/amrsherieycll"><img src="https://img.shields.io/badge/LinkedIn-amrsherieycll-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn amrsherieycll" /></a>
 <a href="https://discord.com/users/412317378337046529"><img src="https://img.shields.io/badge/Discord-cllixiv-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord cllixiv" /></a>
-<a href="https://github.com/AmrMsCLL?tab=followers"><img src="https://img.shields.io/github/followers/AmrMsCLL?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=0f172a&color=0ea5e9" alt="GitHub followers" /></a>
 
 </div>
 
