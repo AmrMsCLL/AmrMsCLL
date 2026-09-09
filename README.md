@@ -81,8 +81,8 @@ React front end, a Python ML service and a Helm chart. I like the layer where th
   </tr>
 </table>
 
-> Most of what I ship day to day lives in Syntheia's private repositories, so the graph below is a
-> long way short of the real commit count.
+> Most of what I ship day to day lives in Syntheia's private repositories, so the public numbers
+> below — and the language split in particular — run a long way behind the real ones.
 
 ---
 
@@ -90,12 +90,16 @@ React front end, a Python ML service and a Helm chart. I like the layer where th
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AmrMsCLL&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9&bg_color=0d1117" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrMsCLL&layout=compact&langs_count=8&hide_border=true&title_color=0ea5e9&text_color=c9d1d9&bg_color=0d1117" alt="Top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmrMsCLL&theme=github_dark" width="98%" alt="Contribution summary" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AmrMsCLL&hide_border=true&background=0d1117&stroke=0ea5e9&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="Contribution streak" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmrMsCLL&theme=github_dark" alt="Commit, PR and issue totals" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmrMsCLL&theme=github_dark" alt="Most-committed languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=AmrMsCLL&hide_border=true&background=0d1117&stroke=0ea5e9&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="Contribution streak" />
 
 </div>
 
